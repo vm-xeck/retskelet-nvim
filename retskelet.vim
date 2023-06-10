@@ -9,7 +9,7 @@ syntax reset
 endif
 
 set t_Co=256
-let g:colors_name = "Retskelet&#39;"
+let g:colors_name = "retskelet"
 
 
 " Define reusable colorvariables.
