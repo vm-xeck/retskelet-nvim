@@ -1,2 +1,3 @@
-# retskelet-nvim
-Colorscheme(wip)
+# Retskelet' por nvim
+
+// Ĝi estas ankoraŭ konstruata.
