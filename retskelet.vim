@@ -9,25 +9,25 @@ syntax reset
 endif
 
 set t_Co=256
-let g:colors_name = "retskelet"
+let g:colors_name = "Retskelet&#39;"
 
 
 " Define reusable colorvariables.
-let s:bg="#272627"
+let s:bg="#182024"
 let s:fg="#ebe5e3"
-let s:fg2="#d8d3d1"
-let s:fg3="#c5c0bf"
-let s:fg4="#b3aead"
-let s:bg2="#383738"
-let s:bg3="#4a494a"
-let s:bg4="#5b5a5b"
+let s:fg2="#ebe5e3"
+let s:fg3="#ebe5e3"
+let s:fg4="#ebe5e3"
+let s:bg2="#182024"
+let s:bg3="#182024"
+let s:bg4="#182024"
 let s:keyword="#e6c03b"
 let s:builtin="#e6c03b"
 let s:const= "#ac896c"
 let s:comment="#9b9196"
 let s:func="#6ecfbf"
 let s:str="#c59382"
-let s:type="#ab8226"
+let s:type="#7daf23"
 let s:var="#6ecfbf"
 let s:warning="#994422"
 let s:warning2="#994422"
