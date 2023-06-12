@@ -18,16 +18,17 @@ let s:fg="#ebe5e3"
 let s:fg2="#ebe5e3"
 let s:fg3="#ebe5e3"
 let s:fg4="#ebe5e3"
-let s:bg2="#182024"
-let s:bg3="#182024"
+let s:bg2="#404246"
+let s:bg3="#212327"
 let s:bg4="#182024"
-let s:keyword="#e6c03b"
-let s:builtin="#e6c03b"
+"let s:keyword="#e6c03b"
+let s:keyword="#c6a05b"
+let s:builtin="#c6a05b"
 let s:const= "#ac896c"
 let s:comment="#9b9196"
 let s:func="#6ecfbf"
 let s:str="#c59382"
-let s:type="#7daf23"
+let s:type="#0e707f"
 let s:var="#6ecfbf"
 let s:warning="#994422"
 let s:warning2="#994422"
@@ -71,7 +72,7 @@ exe 'hi Function guifg='s:func
 exe 'hi Identifier guifg='s:type'  gui=italic'
 exe 'hi Keyword guifg='s:keyword'  gui=bold'
 exe 'hi Label guifg='s:var
-exe 'hi NonText guifg='s:bg4' guibg='s:bg2
+exe 'hi NonText guifg='s:bg4' guibg='s:bg
 exe 'hi Number guifg='s:const
 exe 'hi Operator guifg='s:keyword
 exe 'hi PreProc guifg='s:keyword
